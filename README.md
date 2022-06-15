@@ -1,4 +1,5 @@
 ### Hi there 👋
+  <img src="https://img.shields.io/badge/javascript-22272D?style=for-the-badge&logo=javascript&logoColor=F5DE1A&labelColor=22272D">
 
 <!--
 **pauldavidg/pauldavidg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
